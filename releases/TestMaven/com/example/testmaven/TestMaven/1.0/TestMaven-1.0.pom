@@ -7,8 +7,8 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.example.reallibrary</groupId>
-      <artifactId>reallibrary</artifactId>
+      <groupId>com.example.mylibrary</groupId>
+      <artifactId>mylibrary</artifactId>
       <version>1.0</version>
     </dependency>
   </dependencies>
