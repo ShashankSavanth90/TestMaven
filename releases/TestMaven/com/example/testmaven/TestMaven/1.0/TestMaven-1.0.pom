@@ -15,8 +15,7 @@
   <repositories>
       <repository>
         <id>my-repo1</id>
-        <name>your custom repo</name>
-        <url>https://raw.githubusercontent.com/ShashankSavanth90/shashank/master/releases/</url>
+        <url>https://raw.githubusercontent.com/ShashankSavanth90/TestMaven/master/releases/TestMaven</url>
       </repository>
     </repositories>
 </project>
