@@ -13,9 +13,8 @@
     </dependency>
   </dependencies>
   <repositories>
-      <repository>
-        <id>my-repo1</id>
-        <url>https://raw.githubusercontent.com/ShashankSavanth90/TestMaven/master/releases/TestMaven</url>
-      </repository>
-    </repositories>
+    <repository>
+      <url>https://raw.githubusercontent.com/ShashankSavanth90/shashank/master/releases</url>
+    </repository>
+  </repositories>
 </project>
