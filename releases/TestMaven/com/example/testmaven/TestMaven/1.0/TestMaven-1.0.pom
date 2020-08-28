@@ -7,9 +7,16 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.example.mylibrary</groupId>
-      <artifactId>mylibrary</artifactId>
+      <groupId>com.example.reallibrary</groupId>
+      <artifactId>reallibrary</artifactId>
       <version>1.0</version>
     </dependency>
   </dependencies>
+  <repositories>
+      <repository>
+        <id>my-repo1</id>
+        <name>your custom repo</name>
+        <url>https://raw.githubusercontent.com/ShashankSavanth90/shashank/master/releases/</url>
+      </repository>
+    </repositories>
 </project>
