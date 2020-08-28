@@ -5,5 +5,11 @@
   <artifactId>TestMaven</artifactId>
   <version>1.0</version>
   <packaging>aar</packaging>
-  <dependencies/>
+  <dependencies>
+    <dependency>
+      <groupId>TestMavenPublish</groupId>
+      <artifactId>mylibrary</artifactId>
+      <version>unspecified</version>
+    </dependency>
+  </dependencies>
 </project>
