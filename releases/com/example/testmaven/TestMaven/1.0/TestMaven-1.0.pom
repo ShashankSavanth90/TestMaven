@@ -7,9 +7,9 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>TestMavenPublish</groupId>
+      <groupId>com.example.mylibrary</groupId>
       <artifactId>mylibrary</artifactId>
-      <version>unspecified</version>
+      <version>1.0</version>
     </dependency>
   </dependencies>
 </project>
